@@ -1,4 +1,4 @@
-# frappe-app-documentation
+# frappe-app-documentation for Display Dependency in frappe application
 
 In Frappe, **Display Dependency** is used to conditionally show or hide fields based on the value of other fields. You can control the visibility of fields by evaluating conditions using JavaScript expressions. Below is a list of common display dependency expressions and examples of how you can use them:
 
